@@ -1,0 +1,87 @@
+body {
+	background-color: rgb(174, 177, 183);
+	font-family: "Helvetica";
+	letter-spacing: 2px;
+}
+
+a {
+	color: rgb(71, 100, 216);
+}
+
+img {
+	width: 75%;
+	border-radius: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 5px grey;
+}
+
+.jumbotron {	
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.content {
+	background-color: rgba(113, 113, 113, 0.4);
+	border-radius: 5px;
+	padding: 35px;
+	color: black;
+}
+
+.image1 {
+	background-image: url(assets/pictures/image1.jpg);
+}
+
+.image2 {
+	background-image: url(assets/pictures/image2.jpg);
+}
+
+.image3 {
+	background-image: url(assets/pictures/image3.jpg);
+}
+
+.image4 {
+	background-image: url(assets/pictures/image4.jpg);
+}
+
+.image5 {
+	background-image: url(assets/pictures/image5.jpg);
+}
+
+.image6 {
+	background-image: url(assets/pictures/image6.jpg);
+}
+
+.image7 {
+	background-image: url(assets/pictures/image7.jpg);
+}
+
+.image8 {
+	background-image: url(assets/pictures/image8.jpg);
+}
+
+.image9 {
+	background-image: url(assets/pictures/image9.jpg);
+}
+
+.image10 {
+	background-image: url(assets/pictures/image10.jpg);
+}
+
+.image11 {
+	background-image: url(assets/pictures/image11.jpg);
+}
+
+.image12 {
+	background-image: url(assets/pictures/image12.jpg);
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 5px;
+}
