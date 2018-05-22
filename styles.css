@@ -1,7 +1,7 @@
 body {
 	background-color: rgb(174, 177, 183);
 	font-family: "Helvetica";
-	letter-spacing: 1px;
+	letter-spacing: 2px;
 }
 
 a {
@@ -23,10 +23,6 @@ img {
 	color: white;
 }
 
-.jumbotron h1 {
-	font-size: 2em;
-}
-
 .content {
 	background-color: rgba(113, 113, 113, 0.4);
 	border-radius: 5px;
@@ -35,27 +31,27 @@ img {
 }
 
 .image1 {
-	background-image: url(assets/pictures/image1.jpg);
+	background-image: url(assets/pictures/image1.JPG);
 }
 
 .image2 {
-	background-image: url(assets/pictures/image2.jpg);
+	background-image: url(assets/pictures/image2.JPG);
 }
 
 .image3 {
-	background-image: url(assets/pictures/image3.jpg);
+	background-image: url(assets/pictures/image3.JPG);
 }
 
 .image4 {
-	background-image: url(assets/pictures/image4.jpg);
+	background-image: url(assets/pictures/image4.JPG);
 }
 
 .image5 {
-	background-image: url(assets/pictures/image5.jpg);
+	background-image: url(assets/pictures/image5.JPG);
 }
 
 .image6 {
-	background-image: url(assets/pictures/image6.jpg);
+	background-image: url(assets/pictures/image6.JPG);
 }
 
 .image7 {
@@ -88,5 +84,4 @@ img {
   background-size: cover;
   background-position: center center;
   border-radius: 5px;
-  margin: 10px;
 }
