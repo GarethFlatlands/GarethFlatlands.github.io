@@ -9,6 +9,16 @@ a {
 	color: rgb(71, 100, 216);
 }
 
+.nav-link:hover {
+	border: 1px solid white;
+	background-color: grey;
+}
+
+.container a:hover {
+	border: 1px solid white;
+	background-color: 
+}
+
 img {
 	width: 75%;
 	border-radius: 5px;
